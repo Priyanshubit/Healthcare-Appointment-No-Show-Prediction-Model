@@ -118,9 +118,9 @@ Fork, star ⭐, or submit a PR to improve model, visuals, or documentation! For 
 
 ## 📬 Contact
 
-👤 [Your Name]  
-✉️ [your.email@example.com]  
-🔗 [LinkedIn/GitHub link]
+👤 Priyanshu Bagri
+✉️ scholarpriyanshu@gmail.com  
+🔗 
 
 ---
 
