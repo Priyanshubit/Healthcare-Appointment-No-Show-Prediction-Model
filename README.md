@@ -120,7 +120,7 @@ Fork, star ⭐, or submit a PR to improve model, visuals, or documentation! For 
 
 👤 Priyanshu Bagri
 ✉️ scholarpriyanshu@gmail.com  
-🔗 
+🔗 https://capstonedata.my.canva.site/healthcare-dashboard
 
 ---
 
